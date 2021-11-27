@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@project-serum/borsh": "^0.2.2",
+    "@raydium-io/raydium-sdk": "^1.0.1-rc.0",
+    "@solana/web3.js": "^1.30.2"
+  }
+}
